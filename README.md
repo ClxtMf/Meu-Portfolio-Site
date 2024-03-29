@@ -1,0 +1,2 @@
+# Meu Portfólio Online
+Bem-vindo ao repositório do meu portfólio online! Este repositório contém o código-fonte e os recursos utilizados para construir e hospedar o meu portfólio pessoal na web. Meu portfólio é uma coleção cuidadosamente elaborada dos meus trabalhos, projetos e experiências profissionais, destinado a demonstrar minhas habilidades e conhecimentos em desenvolvimento web, e outras áreas relacionadas.
