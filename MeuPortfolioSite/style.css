@@ -25,7 +25,7 @@ body {
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
-    background-color: #5271FF;
+    background-color: #004aad;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -33,7 +33,7 @@ body {
 }
 
 .btn-contato button:hover {
-    box-shadow: 0px 0px 8px #5271FF;
+    box-shadow: 0px 0px 8px #004aad;
     transform: scale(1.05);
 }
 
@@ -95,7 +95,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site h1 span {
-    color: #5271FF;
+    color: #004aad;
 }
 
 .topo-do-site .txt-topo-site p {
@@ -109,7 +109,7 @@ section.topo-do-site .flex {
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
     border-radius: 20px;
-    box-shadow: 0px 0px 40px #5271FF;
+    box-shadow: 0px 0px 40px #004aad;
     transform: rotate(45deg);
 }
 
