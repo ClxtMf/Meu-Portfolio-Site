@@ -40,7 +40,7 @@ body {
 /* Estilo do cabeçalho */
 
 img {
-    height: 190px;
+    height: 200px;
 }
 
 header{
@@ -102,3 +102,23 @@ section.topo-do-site .flex {
     color: #fff;
     margin: 40px ;
 }
+
+
+.topo-do-site .img-topo-site img {
+    height: 230px;
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+    border-radius: 20px;
+    box-shadow: 0px 0px 40px #5271FF;
+    transform: rotate(45deg);
+}
+
+@keyframes flutuar {
+    0% {
+        top: 0;
+    }
+    100% {
+        top: 30px;
+    }
+}
+
