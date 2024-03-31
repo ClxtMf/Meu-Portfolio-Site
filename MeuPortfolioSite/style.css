@@ -119,8 +119,8 @@ section.topo-do-site .flex {
     position: relative;
     animation: flutuar 2s ease-in-out infinite alternate;
     border-radius: 20px;
-    box-shadow: 0px 0px 40px #004aad;
-    transform: rotate(45deg);
+    box-shadow: 0px 0px 45px #004aad;
+    transform: rotate(44deg);
 }
 
 @keyframes flutuar {
@@ -148,6 +148,7 @@ section.especialidades .flex {
     margin-top: 45px;
     border-radius: 20px;
     transition: 1.2s;
+    cursor: pointer;
 
 }
 
